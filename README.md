@@ -15,8 +15,8 @@ The tool allows to visualize 11 different algorithms:
 10. Selection Sort
 11. Shell Sort
 
-### Merge Sort Visualization:
-![Merge Sort Visualization](demo/sort_viz.gif)
+### Bubble Sort Visualization:
+![Bubble Sort Visualization](demo/sort_viz.gif)
 ## Instalation
 
 The app is hosted here: https://mfijalkowska.github.io/Sorting-Visualizer/. Give it a go!
